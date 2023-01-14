@@ -83,19 +83,19 @@ We used two pictures taken by ourselves in SUSTC and some pictures in the test s
 
 ### 5. Conclusion
 
-All of the pictures we took were sunset pictures, of which the color effect of ECCV is better than that of SIGGPATH, and the latter's restoration effect is more inclined to the pictures in the daytime.
+All of the pictures we took were sunset pictures, of which the color effect of ECCV is better than that of SIGGPATH, and the latter's restoration effect is more inclined to the pictures in the daytime. In the image coloring task, the environment and time factors in the image will have a great impact on the shading effect.Therefore, adding some text descriptions can make the effect of picture coloring more natural and full
 
 
 
 #### Reference
 
-The reference to the cited paper is needed.
+
 
 
 
 ### Contributions
 
-- 杨钊 (SID11813227):
+- 杨钊 (SID11813227):50%
 
-- 顾隽逸 (SID11910424):
+- 顾隽逸 (SID11910424):50%
 
